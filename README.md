@@ -1,4 +1,5 @@
 # Crypto Clustering
+Unsupervised machine learning to clusters cryptocurrencies.
 
 ## Files
 The following files were used in the project: Crypto_Clustering.ipynb and crypto_market_data.csv
