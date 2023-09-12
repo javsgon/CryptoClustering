@@ -2,7 +2,7 @@
 Unsupervised machine learning to cluster cryptocurrencies.
 
 ## Files
-The following files were used in the project: Crypto_Clustering.ipynb and crypto_market_data.csv
+The following files were used in the project: Crypto_Clustering_JS.ipynb and crypto_market_data.csv
 
 ## Prepare the Data
 Used the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
